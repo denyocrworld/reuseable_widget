@@ -1,6 +1,7 @@
 {
     "openai_key": "",
     "modules": [
-        "user_list"
+        "user_list",
+        "demo"
     ]
 }
